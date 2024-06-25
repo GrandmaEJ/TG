@@ -1,4 +1,4 @@
-<img src="readme.jpg" width="20%" height="22%"style="border-radius: 50%; display: block; margin: auto;">
+<img src="readme.jpg" width="20%" height="22%" style="border-radius: 50%; display: block; margin: auto;">
 
 ### I am the soul of Grandpa , this is a public project, if you like it then send star ⭐ 
 
